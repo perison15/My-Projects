@@ -1,0 +1,13 @@
+[2019-09-14 16:25:24]
+[Unsupported] Windows(R), ProfessionalWorkstationN edition(4b1571d3-bafb-4b40-8087-a961be2caf65) System: 10 Enterprise N
+[2019-09-14 16:25:25]
+[Unsupported] Windows(R), ProfessionalEducationN edition(5300b18c-2e33-4dc2-8291-47ffcec746dd) System: 10 Enterprise N
+[2019-09-14 16:25:57]
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Activating Windows(R), EnterpriseN edition (e272e3e2-732f-4c65-a8f0-484747d0d947) ...
+Error: 0x800700E1 Operation did not complete successfully because the file contains a virus or potentially unwanted software.  (SWbemObjectEx)
+
+
+
